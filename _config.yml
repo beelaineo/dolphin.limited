@@ -1,0 +1,11 @@
+
+title: Dolphin
+author: Blaine O'Neill
+email: blaine@dolphin.limited
+description: > 
+  digital water birth
+# social links
+
+show_excerpts: false # set to false to remove excerpts on the homepage
+
+theme: minima
